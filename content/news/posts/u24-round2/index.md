@@ -1,0 +1,10 @@
+---
+title: The second round of U24 Dissemination Projects kicks off
+date: 2025-11-01
+share: false  # social media buttons
+image:
+  focal_point: 'top'
+
+---
+
+Test etsfnklas
