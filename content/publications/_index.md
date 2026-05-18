@@ -11,7 +11,7 @@ sections:
         <div class="gold-divider"></div>
       filters:
         folders:
-          - publication
+          - publications
         featured_only: false
       count: 0
       sort_by: 'Date'
