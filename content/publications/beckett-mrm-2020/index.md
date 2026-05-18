@@ -56,7 +56,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**MRM**](https://onlinelibrary.wiley.com/cms/asset/1f8a3b7f-b9b7-456f-a998-9d5fb39caa33/mrm28347-fig-0007-m.jpg)'
   focal_point: ""
   preview_only: false
 
