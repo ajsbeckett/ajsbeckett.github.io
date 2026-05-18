@@ -1,24 +1,14 @@
 ---
 title: Publications
 cms_exclude: true
-
-sections:
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-        publication_type: article-journal
-    design:
-      view: citation
-
-## View.
-#view: citation
-
-
+content:
+  filters:
+    folders:
+      - publications
+    exclude_featured: false
+    publication_type: article-journal
+design:
+  view: compact
 
 # Optional header image (relative to `static/media/` folder).
 banner:
