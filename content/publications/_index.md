@@ -1,17 +1,23 @@
 ---
-title: Publications
-cms_exclude: true
-content:
-  filters:
-    folders:
-      - publications
-    exclude_featured: false
-    publication_type: article-journal
-design:
-  view: compact
+title: 'Publications'
+type: landing
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
----
+sections:
+  - block: collection
+    id: publications
+    content:
+      title: |
+        <h2 class="join-header">Select Publications</h2>
+        <div class="gold-divider"></div>
+      filters:
+        folders:
+          - publication
+        featured_only: false
+      count: 0
+      sort_by: 'Date'
+      sort_ascending: false
+    design:
+      view: compact
+      columns: '1'
+      spacing:
+        padding: ['20px', '0', '0', '0']
