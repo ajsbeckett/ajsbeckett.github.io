@@ -64,6 +64,7 @@ sections:
         folders:
           - publications
         exclude_featured: false
+        publication_type: article-journal
     design:
       view: citation
   - block: collection
