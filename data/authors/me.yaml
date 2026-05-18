@@ -2,18 +2,17 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
+  display: Dr. Alexander JS Beckett
   given: Alex
-  family: Johnson
+  family: Beckett
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
   - PhD
-  - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Research Scientist
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
@@ -21,17 +20,18 @@ bio: |
   while ensuring ethical development.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Advanced MRI Technologies
+    url: https://www.advancedmri.com/
+  - name: Feinberg Lab, UC Berkeley
+    url: https://feinberg-lab.github.io/
+  
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:ajsbeckett@berkeley.edu
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/ajsbeckett
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/example/
   - icon: academicons/google-scholar
