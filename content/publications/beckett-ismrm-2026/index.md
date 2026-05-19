@@ -43,15 +43,9 @@ hugoblox:
 # Custom links
 links:
   - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: https://github.com/HugoBlox/kit
+    url: "Beckett-505-04-003.pdf"
   - type: slides
     url: https://www.slideshare.net/
-  - type: source
-    url: https://github.com/HugoBlox/kit
   - type: video
     url: https://youtube.com
 
