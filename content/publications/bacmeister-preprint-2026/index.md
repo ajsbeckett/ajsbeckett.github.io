@@ -1,5 +1,5 @@
 ---
-title: "Functional imaging of hippocampal layers using VASO and BOLD on the Next Generation (NexGen) 7T scanner (preprint)"
+title: "Multiphasic myelination and dendritic growth modulate qMRI signals in human visual cortex"
 
 weight: 1
 
