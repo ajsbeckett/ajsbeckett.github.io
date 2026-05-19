@@ -17,8 +17,6 @@ sections:
       sort_by: 'Date'
       sort_ascending: false
     design:
-      view: card
+      view: citation
       columns: '1'
-      spacing:
-        padding: ['20px', '0', '0', '0']
 ---
