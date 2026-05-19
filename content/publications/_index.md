@@ -20,7 +20,7 @@ sections:
     design:
       view: citation
       columns: '1'
-- block: collection
+  - block: collection
     id: publications
     content:
       title: |
