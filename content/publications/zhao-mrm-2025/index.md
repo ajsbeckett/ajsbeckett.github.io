@@ -31,7 +31,7 @@ doi: "10.1002/mrm.70265"
 # links:
 # - name: ""
 # url: ""
-url_pdf: ' https://doi.org/10.1002/mrm.70265'
+url_pdf: "https://doi.org/10.1002/mrm.70265"
 url_code: ''
 url_dataset: ''
 url_poster: ''
