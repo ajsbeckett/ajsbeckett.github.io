@@ -30,7 +30,7 @@ sections:
         folders:
           - publications
         featured_only: false
-        publication_type: conference-paper
+        publication_type: paper-conference
       count: 0
       sort_by: 'Date'
       sort_ascending: false
